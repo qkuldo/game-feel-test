@@ -1,0 +1,1521 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"toxic",
+				"toxic_pool_list"
+			],
+			[
+				"get",
+				"get_focused"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"kn",
+				"knockback_player"
+			],
+			[
+				"kno",
+				"knockback_player"
+			],
+			[
+				"knoc",
+				"knockback_player"
+			],
+			[
+				"inv",
+				"invincibility_frames"
+			],
+			[
+				"con",
+				"contains"
+			],
+			[
+				"player_",
+				"player_hitbox"
+			],
+			[
+				"tox",
+				"toxic_pool_list"
+			],
+			[
+				"ge",
+				"get_pos"
+			],
+			[
+				"player",
+				"player_stats"
+			],
+			[
+				"enem",
+				"enemy_projectiles"
+			],
+			[
+				"direc",
+				"direction_of_collide"
+			],
+			[
+				"directi",
+				"direction_of_collide"
+			],
+			[
+				"dir",
+				"direction_of_collide"
+			],
+			[
+				"hud",
+				"hud_pos"
+			],
+			[
+				"spe",
+				"special_flags"
+			],
+			[
+				"dash_",
+				"dash_dy"
+			],
+			[
+				"dash",
+				"dash_dy"
+			],
+			[
+				"upda",
+				"updated_x"
+			],
+			[
+				"co",
+				"cooldown"
+			],
+			[
+				"load",
+				"loadinganim"
+			],
+			[
+				"cp",
+				"convert_alpha"
+			],
+			[
+				"lo",
+				"loadinganim"
+			],
+			[
+				"t",
+				"transform"
+			],
+			[
+				"mid",
+				"midright"
+			],
+			[
+				"los",
+				"lost_hp_rect"
+			],
+			[
+				"pla",
+				"player_stats"
+			],
+			[
+				"corr",
+				"corrupted_golem_corpse"
+			],
+			[
+				"tar",
+				"current_deathattack_target"
+			],
+			[
+				"current",
+				"current_deathattack_target"
+			],
+			[
+				"set",
+				"set_alpha"
+			],
+			[
+				"de",
+				"death_delay"
+			],
+			[
+				"death",
+				"death_delay"
+			],
+			[
+				"coll",
+				"collided"
+			],
+			[
+				"c",
+				"colliderect"
+			],
+			[
+				"shif",
+				"shift_attack"
+			],
+			[
+				"key",
+				"keypress"
+			],
+			[
+				"deat",
+				"death_attack_hp"
+			],
+			[
+				"butt",
+				"buttonclick"
+			],
+			[
+				"particl",
+				"particlelist"
+			],
+			[
+				"start",
+				"start_rect"
+			],
+			[
+				"title_",
+				"title_surf"
+			],
+			[
+				"pl",
+				"player_y"
+			],
+			[
+				"org",
+				"org_pos"
+			],
+			[
+				"sc",
+				"screenshake_duration"
+			],
+			[
+				"wa",
+				"wall_n_rect"
+			],
+			[
+				"spin",
+				"spin_length"
+			],
+			[
+				"key_",
+				"key_item"
+			],
+			[
+				"sword",
+				"sword_times"
+			],
+			[
+				"play",
+				"player_y"
+			],
+			[
+				"l",
+				"light"
+			],
+			[
+				"o",
+				"outer_rect"
+			],
+			[
+				"out",
+				"outer_dist"
+			],
+			[
+				"wall",
+				"wall_list"
+			],
+			[
+				"tor",
+				"torch_lights"
+			],
+			[
+				"bu",
+				"buffer"
+			],
+			[
+				"K",
+				"K_SPACE"
+			],
+			[
+				"up",
+				"updated_y"
+			],
+			[
+				"ti",
+				"title_rect"
+			],
+			[
+				"s",
+				"surf"
+			],
+			[
+				"scre",
+				"screenshake_duration"
+			],
+			[
+				"in",
+				"in_door"
+			],
+			[
+				"curr",
+				"current_screen"
+			],
+			[
+				"foot",
+				"footsteps_sound_cooldown"
+			],
+			[
+				"foo",
+				"footsteps_sound_cooldown"
+			],
+			[
+				"par",
+				"particlelist"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"fade",
+				"fade_in"
+			],
+			[
+				"fad",
+				"fade_in"
+			],
+			[
+				"cir",
+				"circle_color"
+			],
+			[
+				"main",
+				"main_color"
+			],
+			[
+				"das",
+				"dash_duration"
+			],
+			[
+				"S",
+				"SCREENHEIGHT"
+			],
+			[
+				"SC",
+				"SCREENHEIGHT"
+			],
+			[
+				"re",
+				"respawn_timer"
+			],
+			[
+				"da",
+				"dash_duration"
+			],
+			[
+				"curre",
+				"current_room"
+			],
+			[
+				"res",
+				"respawn_timer"
+			],
+			[
+				"spawn",
+				"spawn_pot"
+			],
+			[
+				"wal",
+				"wall_r_rect"
+			],
+			[
+				"ene",
+				"enemy_damage"
+			],
+			[
+				"veloc",
+				"velocity_y"
+			],
+			[
+				"d",
+				"damage_particle"
+			],
+			[
+				"damage",
+				"damage_particle"
+			],
+			[
+				"scr",
+				"screenshake_duration"
+			],
+			[
+				"screen",
+				"screenshake_duration"
+			],
+			[
+				"scree",
+				"screenshake_duration"
+			],
+			[
+				"rand",
+				"random_point"
+			],
+			[
+				"cl",
+				"class\tNew Class"
+			],
+			[
+				"pot",
+				"pot_list"
+			],
+			[
+				"red",
+				"orangered"
+			],
+			[
+				"ga",
+				"gallery"
+			],
+			[
+				"blue",
+				"darkblue"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ore",
+				"forestgreen"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"e",
+				"explosion_list"
+			],
+			[
+				"ex",
+				"explosion_list"
+			],
+			[
+				"en",
+				"enemy"
+			],
+			[
+				"em",
+				"enemy_list"
+			],
+			[
+				"m",
+				"mixer"
+			],
+			[
+				"leve",
+				"level_sound"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"r",
+				"random"
+			],
+			[
+				"pa",
+				"particles"
+			],
+			[
+				"p",
+				"particle_sys"
+			],
+			[
+				"part",
+				"particle_sys"
+			],
+			[
+				"ent",
+				"entity"
+			],
+			[
+				"ma",
+				"mainspeed"
+			],
+			[
+				"coold",
+				"cooldown_tracker"
+			],
+			[
+				"n",
+				"norm_bullet"
+			],
+			[
+				"bull",
+				"bullet_rect_list"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"st",
+				"star_type"
+			],
+			[
+				"ra",
+				"random_star_x"
+			],
+			[
+				"sta",
+				"star2"
+			],
+			[
+				"step",
+				"stepx"
+			],
+			[
+				"x",
+				"spawnx"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "He"
+					},
+					"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					2,
+					"left_delete",
+					null,
+					"AgAAAAEAAAAAAAAAAQAAAAAAAAABAAAAZQAAAAAAAAAAAAAAAAAAAAABAAAASA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					21,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAaQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "class.py",
+			"settings":
+			{
+				"buffer_size": 143,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "import"
+					},
+					"BgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": " pygame"
+					},
+					"BwAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAA0AAAAAAAAADgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "clas"
+					},
+					"BAAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					13,
+					1,
+					"insert_completion",
+					{
+						"completion": "class ${1:ClassName}(${2:object}):\n\t${3/.+/\"\"\"/}${3:docstring for $1}${3/.+/\"\"\"\\n/}${3/.+/\\t/}def __init__(self${4/([^,])?(.*)/(?1:, )/}${4:arg}):\n\t\t${5:super($1, self).__init__()}\n${4/(\\A\\s*,\\s*\\Z)|,?\\s*([A-Za-z_][a-zA-Z0-9_]*)\\s*(=[^,]*)?(,\\s*|$)/(?2:\\t\\tself.$2 = $2\\n)/g}\t\t$0",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "class"
+					},
+					"AwAAAA4AAAAAAAAADgAAAAAAAAAEAAAAY2xhcw4AAAAAAAAAlwAAAAAAAAAAAAAAlQAAAAAAAACVAAAAAAAAAAIAAAAJCQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"left_delete",
+					null,
+					"AwAAAGgAAAAAAAAAaAAAAAAAAAAJAAAAQ2xhc3NOYW1lOQAAAAAAAAA5AAAAAAAAAAkAAABDbGFzc05hbWUUAAAAAAAAABQAAAAAAAAACQAAAENsYXNzTmFtZQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAMAAAAUAAAAAAAAAB0AAAAAAAAAAAAAAAAA8L85AAAAAAAAAEIAAAAAAAAAAAAAAAAA8L9oAAAAAAAAAHEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "Player"
+					},
+					"EgAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAMAAAAAAAAAAxAAAAAAAAAAAAAAAUAAAAAAAAABUAAAAAAAAAAAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAAFwAAAAAAAAAXQAAAAAAAAAAAAAANAAAAAAAAAA1AAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAAF8AAAAAAAAAYAAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAAGIAAAAAAAAAYwAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAAGUAAAAAAAAAZgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAAZAAAAAAAAABoAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAMAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAA8L8wAAAAAAAAADAAAAAAAAAAAAAAAAAA8L9WAAAAAAAAAFYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					2,
+					"left_delete",
+					null,
+					"AgAAABsAAAAAAAAAGwAAAAAAAAAHAAAAb2JqZWN0KRoAAAAAAAAAGgAAAAAAAAABAAAAKA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAiAAAAAAAAABsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					25,
+					1,
+					"right_delete",
+					null,
+					"AQAAABwAAAAAAAAAHAAAAAAAAAAbAAAACSIiImRvY3N0cmluZyBmb3IgUGxheWVyIiIi",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA3AAAAAAAAABwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					26,
+					1,
+					"left_delete",
+					null,
+					"AQAAABsAAAAAAAAAGwAAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAcAAAAAAAAABwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					33,
+					4,
+					"left_delete",
+					null,
+					"BAAAADgAAAAAAAAAOAAAAAAAAAAeAAAAc3VwZXIoUGxheWVyLCBzZWxmKS5fX2luaXRfXygpNwAAAAAAAAA3AAAAAAAAAAEAAAAJNgAAAAAAAAA2AAAAAAAAAAEAAAAJNQAAAAAAAAA1AAAAAAAAAAEAAAAK",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABWAAAAAAAAADgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					36,
+					1,
+					"left_delete",
+					null,
+					"AQAAADAAAAAAAAAAMAAAAAAAAAADAAAAYXJn",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAzAAAAAAAAADAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "pos=]"
+					},
+					"BQAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA1AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					38,
+					1,
+					"left_delete",
+					null,
+					"AQAAADQAAAAAAAAANAAAAAAAAAABAAAAXQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA1AAAAAAAAADUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					39,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAADQAAAAAAAAANgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA0AAAAAAAAADQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "0,0"
+					},
+					"AwAAADUAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADgAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA1AAAAAAAAADUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					43,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEMAAAAAAAAAQwAAAAAAAAAJAAAAYXJnID0gYXJn",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABMAAAAAAAAAEMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "pos="
+					},
+					"BAAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABFAAAAAAAAAAAAAABFAAAAAAAAAEYAAAAAAAAAAAAAAEYAAAAAAAAARwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAAAAAAAAAEMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": " pos"
+					},
+					"BAAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAABJAAAAAAAAAEoAAAAAAAAAAAAAAEoAAAAAAAAASwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABHAAAAAAAAAEcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEYAAAAAAAAARwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABGAAAAAAAAAEYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "\nsle"
+					},
+					"BQAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABPAAAAAAAAAAAAAABPAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABMAAAAAAAAAEwAAAAAAAAAAAAAAADgZUA"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "l"
+					},
+					"AQAAAFIAAAAAAAAAUwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABSAAAAAAAAAFIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					54,
+					3,
+					"left_delete",
+					null,
+					"AwAAAFIAAAAAAAAAUgAAAAAAAAABAAAAbFEAAAAAAAAAUQAAAAAAAAABAAAAZVAAAAAAAAAAUAAAAAAAAAABAAAAbA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABTAAAAAAAAAFMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "elf."
+					},
+					"BAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAFMAAAAAAAAAVAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "main"
+					},
+					"BAAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAFcAAAAAAAAAWAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABUAAAAAAAAAFQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					57,
+					4,
+					"left_delete",
+					null,
+					"BAAAAFcAAAAAAAAAVwAAAAAAAAABAAAAblYAAAAAAAAAVgAAAAAAAAABAAAAaVUAAAAAAAAAVQAAAAAAAAABAAAAYVQAAAAAAAAAVAAAAAAAAAABAAAAbQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABYAAAAAAAAAFgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "character"
+					},
+					"CQAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABZAAAAAAAAAAAAAABZAAAAAAAAAFoAAAAAAAAAAAAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABUAAAAAAAAAFQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABdAAAAAAAAAF0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": " pug"
+					},
+					"BAAAAF8AAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABhAAAAAAAAAAAAAABhAAAAAAAAAGIAAAAAAAAAAAAAAGIAAAAAAAAAYwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABfAAAAAAAAAF8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					61,
+					2,
+					"left_delete",
+					null,
+					"AgAAAGIAAAAAAAAAYgAAAAAAAAABAAAAZ2EAAAAAAAAAYQAAAAAAAAABAAAAdQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABjAAAAAAAAAGMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": "ygame.RE"
+					},
+					"CAAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAABjAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAABmAAAAAAAAAAAAAABmAAAAAAAAAGcAAAAAAAAAAAAAAGcAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABpAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABhAAAAAAAAAGEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					63,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGgAAAAAAAAAaAAAAAAAAAABAAAARQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABpAAAAAAAAAGkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "ect"
+					},
+					"AwAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABqAAAAAAAAAAAAAABqAAAAAAAAAGsAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABoAAAAAAAAAGgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					65,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAGsAAAAAAAAAbQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABrAAAAAAAAAGsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": "pos"
+					},
+					"AwAAAGwAAAAAAAAAbQAAAAAAAAAAAAAAbQAAAAAAAABuAAAAAAAAAAAAAABuAAAAAAAAAG8AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABsAAAAAAAAAGwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					67,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAG8AAAAAAAAAcQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABvAAAAAAAAAG8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "0,po"
+					},
+					"BAAAAHAAAAAAAAAAcQAAAAAAAAAAAAAAcQAAAAAAAAByAAAAAAAAAAAAAAByAAAAAAAAAHMAAAAAAAAAAAAAAHMAAAAAAAAAdAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					69,
+					3,
+					"left_delete",
+					null,
+					"AwAAAHMAAAAAAAAAcwAAAAAAAAABAAAAb3IAAAAAAAAAcgAAAAAAAAABAAAAcHEAAAAAAAAAcQAAAAAAAAABAAAALA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB0AAAAAAAAAHQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": ",pos"
+					},
+					"BAAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHUAAAAAAAAAAAAAAHUAAAAAAAAAdgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAByAAAAAAAAAHIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					72,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAHYAAAAAAAAAeAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB2AAAAAAAAAHYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					73,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAHcAAAAAAAAAeAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB3AAAAAAAAAHcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": "self."
+					},
+					"BQAAAHMAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB1AAAAAAAAAAAAAAB1AAAAAAAAAHYAAAAAAAAAAAAAAHYAAAAAAAAAdwAAAAAAAAAAAAAAdwAAAAAAAAB4AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABzAAAAAAAAAHMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					77,
+					1,
+					"insert",
+					{
+						"characters": "self."
+					},
+					"BQAAAGwAAAAAAAAAbQAAAAAAAAAAAAAAbQAAAAAAAABuAAAAAAAAAAAAAABuAAAAAAAAAG8AAAAAAAAAAAAAAG8AAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAABxAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABsAAAAAAAAAGwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					79,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAIMAAAAAAAAAhAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACDAAAAAAAAAIMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					80,
+					1,
+					"insert",
+					{
+						"characters": "50,"
+					},
+					"AwAAAIQAAAAAAAAAhQAAAAAAAAAAAAAAhQAAAAAAAACGAAAAAAAAAAAAAACGAAAAAAAAAIcAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACEAAAAAAAAAIQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					81,
+					1,
+					"insert",
+					{
+						"characters": "100"
+					},
+					"AwAAAIcAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACJAAAAAAAAAAAAAACJAAAAAAAAAIoAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACHAAAAAAAAAIcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					87,
+					1,
+					"left_delete",
+					null,
+					"AQAAABQAAAAAAAAAFAAAAAAAAAAGAAAAUGxheWVy",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAaAAAAAAAAABQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					88,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAABQAAAAAAAAAFQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					89,
+					1,
+					"left_delete",
+					null,
+					"AQAAABQAAAAAAAAAFAAAAAAAAAABAAAAYw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					90,
+					1,
+					"insert",
+					{
+						"characters": "CHar"
+					},
+					"BAAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAGAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					91,
+					1,
+					"left_delete",
+					null,
+					"AQAAABcAAAAAAAAAFwAAAAAAAAABAAAAcg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					92,
+					1,
+					"insert_completion",
+					{
+						"completion": "character",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "character"
+					},
+					"AgAAABQAAAAAAAAAFAAAAAAAAAADAAAAQ0hhFAAAAAAAAAAdAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				" git: add",
+				"git: remote add"
+			],
+			[
+				" git: init",
+				"git: init"
+			],
+			[
+				"git:",
+				"git: commit"
+			],
+			[
+				"Git: comm",
+				"git: commit"
+			],
+			[
+				"Git: Push",
+				"git: push"
+			],
+			[
+				"gitsa",
+				"GitSavvy: help"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 214.4,
+		"history":
+		[
+			"s",
+			"print (\"hi\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Dell/Downloads/Games/game-feel-test"
+	],
+	"file_history":
+	[
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/main.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/game.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/room.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/a guide to the echo of angels.txt",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/enemy.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/saves/data.json",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/glow.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/particle.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/__init__.py",
+		"/C/Users/Dell/Downloads/Games/space_shooter/main.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/hit_effect.py",
+		"/C/Users/Dell/OneDrive/Desktop/My Website/my_website_color.css",
+		"/C/Users/Dell/OneDrive/Desktop/My Website/My Website.html",
+		"/C/Users/Dell/OneDrive/Desktop/My Website/newspage.html",
+		"/C/Users/Dell/OneDrive/Desktop/My Website/gallery.html",
+		"/C/Users/Dell/Downloads/Games/Xion/Other/Changelog.txt",
+		"/C/Users/Dell/Downloads/Games/Xion/main.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/__init__.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity/enemy.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity/entity.py",
+		"/C/Users/Dell/Downloads/Games/Xion/README.md",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/particle/particle_effects.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/particle/particle_sys.py",
+		"/C/Users/Dell/Downloads/Games/Xion/__init__.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity/__init__.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity/bullet.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/animation/animation_effects.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/animation/animation.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/animation/__init__.py",
+		"/C/Users/Dell/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Dell/Downloads/Games/Xion/Other/Bugs.txt",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/particle/__init__.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity/hitbox.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/particle/particle.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/non_player_subclasses/bullet.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/hitbox.py",
+		"/C/Users/Dell/Downloads/Untitled Document.md",
+		"/C/Users/Dell/Downloads/Games/Xion/Changelog.txt",
+		"/C/Users/Dell/Downloads/Games/Xion/Bugs.txt",
+		"/C/Users/Dell/Downloads/Games/moving_guy/main.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Weapons.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Other/Changelog.txt",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Armor.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Rooms.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Character.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/README.md",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Items.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Other/BUGS.txt",
+		"/C/Users/Dell/Downloads/Games/Terrainer/Terrainer.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/BUGS.txt",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Changelog.txt",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Dark Dungeon Documentation.md",
+		"/C/Users/Dell/Downloads/Dark Dungeon Documentation.md",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/game.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/Rooms.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/Character.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/main.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/game.py",
+		"/C/Users/Dell/Downloads/Games/PYDebugger.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/Items.py",
+		"/C/Users/Dell/Downloads/Games/Custom Modules/CustomColors.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/Armor.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/Weapons.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/Health_Bar.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/save.py",
+		"/C/Users/Dell/Downloads/Games/PYRun.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/_save",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/Art.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Character.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Weapons.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Mist.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Healthbar.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/textstory.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/textstory_test.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Maze.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Sit Down.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Monster Slayer.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Monster Slayer",
+		"/C/Users/Dell/OneDrive/Desktop/Python/PYRun.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/PYRun Command Prompt(BETA).bat",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Adventure_To_The_Dark_World.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/pygame_mixer_test.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/pygame_mixer_test",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Dungeon Crawl.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Dungeon Crawl",
+		"/C/Users/Dell/OneDrive/Desktop/Python/music_maker.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/py_cmd_graphics.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/py_cmd_graphics_test.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/py_cmd_graphics",
+		"/C/Users/Dell/OneDrive/Desktop/My Website.html",
+		"/C/Users/Dell/OneDrive/Desktop/Python/PyScrape.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/pysc",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Rock_Paper_Scissors.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/PYRun_settings.txt",
+		"/C/Users/Dell/OneDrive/Desktop/Python/PYRun cmd.bat",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Quickpress.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Code_Generator.py",
+		"/C/Users/Dell/OneDrive/Desktop/my_website_color.css",
+		"/C/Users/Dell/OneDrive/Desktop/Python/classtest_2.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/classtest_1.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Wardle.py",
+		"/C/Users/Dell/OneDrive/Desktop/my_website-css",
+		"/C/Users/Dell/OneDrive/Desktop/my_website",
+		"/C/Users/Dell/OneDrive/Desktop/my_website - Copy",
+		"/C/Users/Dell/OneDrive/Desktop/Things not to forget.html",
+		"/C/Users/Dell/OneDrive/Desktop/Python/HostileSort",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Adventure_To_The_Dark_World",
+		"/C/Users/Dell/OneDrive/Desktop/Python/the_gambling_game",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Fibonacci_Generator",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Code_Generator",
+		"/C/Users/Dell/OneDrive/Desktop/Python/A Wise Old Tree",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Rock_Paper_Scissors",
+		"/C/Users/Dell/OneDrive/Desktop/Python/PYRun",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Wardle",
+		"/C/Users/Dell/OneDrive/Desktop/Python/TextPet",
+		"/C/Users/Dell/OneDrive/Desktop/Python/output/TextPet/_bz2.pyd",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Planner",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Random_Story_Generator",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Random_Shapes",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Musicland",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Neural_Net",
+		"/C/Users/Dell/OneDrive/Desktop/Python/binary_seach_algorithim",
+		"/C/Users/Dell/OneDrive/Desktop/Python/hiPython_v2.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Keypress",
+		"/C/Users/Dell/OneDrive/Desktop/Python/#coding project 1",
+		"/C/Users/Dell/OneDrive/Desktop/Python/INVADER",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Simple_Movement"
+	],
+	"find":
+	{
+		"height": 53.6
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "class.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.6
+	},
+	"input":
+	{
+		"height": 119.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 138.399993896
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "game-feel-test.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 499.8,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\phaser\\phaser.sublime-project"
+			],
+			[
+				"phas",
+				"C:\\phaser\\phaser.sublime-project"
+			],
+			[
+				"my",
+				"C:\\Users\\Dell\\OneDrive\\Desktop\\My Website\\My_Website.sublime-project"
+			]
+		],
+		"width": 379.6
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
